@@ -1,0 +1,27 @@
+button {
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+    background-color: azure;
+    border-radius: 7px;
+}
+
+.clicked {
+    background-color: aqua;
+    box-shadow: 2px;
+}
+
+.intro {
+    font-size: 36px;
+    text-align: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.results {
+    font-size: 28px;
+    text-align: center;
+}
